@@ -4,7 +4,7 @@ The CursorChaserGame is a game where the AI opponent tries to catch your cursor,
 
 ## Getting Started
 
-To play this game, you will need a Nintendo 3DS with a custom firmware, and the Homebrew Launcher. You can learn how install it on (https://3ds.hacks.guide/)
+To play this game, you will need a Nintendo 3DS with a custom firmware, and the Homebrew Launcher. You can learn how install it on https://3ds.hacks.guide/
 
 Once you have that, simply copy the "CursorChaserGame.3dsx" file from the "/build" directory into the "/3ds" folder on your SD card. The game should now appear in the Homebrew Launcher.
 
